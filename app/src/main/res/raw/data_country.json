@@ -1,0 +1,1097 @@
+[
+  {
+    "Country": "Afghanistan",
+    "ThreeLetterSymbol": "afg",
+    "Translation": "Afeganistão"
+  },
+  {
+    "Country": "Albania",
+    "ThreeLetterSymbol": "alb",
+    "Translation": "Albânia"
+  },
+  {
+    "Country": "Algeria",
+    "ThreeLetterSymbol": "dza",
+    "Translation": "Argélia"
+  },
+  {
+    "Country": "Andorra",
+    "ThreeLetterSymbol": "and",
+    "Translation": "Andorra"
+  },
+  {
+    "Country": "Angola",
+    "ThreeLetterSymbol": "ago",
+    "Translation": "Angola"
+  },
+  {
+    "Country": "Anguilla",
+    "ThreeLetterSymbol": "aia",
+    "Translation": "Anguila"
+  },
+  {
+    "Country": "Antigua and Barbuda",
+    "ThreeLetterSymbol": "atg",
+    "Translation": "Antígua e Barbuda"
+  },
+  {
+    "Country": "Argentina",
+    "ThreeLetterSymbol": "arg",
+    "Translation": "Argentina"
+  },
+  {
+    "Country": "Armenia",
+    "ThreeLetterSymbol": "arm",
+    "Translation": "Arménia"
+  },
+  {
+    "Country": "Aruba",
+    "ThreeLetterSymbol": "abw",
+    "Translation": "Aruba"
+  },
+  {
+    "Country": "Australia",
+    "ThreeLetterSymbol": "aus",
+    "Translation": "Austrália"
+  },
+  {
+    "Country": "Austria",
+    "ThreeLetterSymbol": "aut",
+    "Translation": "Áustria"
+  },
+  {
+    "Country": "Azerbaijan",
+    "ThreeLetterSymbol": "aze",
+    "Translation": "Azerbaijão"
+  },
+  {
+    "Country": "Bahamas",
+    "ThreeLetterSymbol": "bhs",
+    "Translation": "Bahamas"
+  },
+  {
+    "Country": "Bahrain",
+    "ThreeLetterSymbol": "bhr",
+    "Translation": "Bahrein"
+  },
+  {
+    "Country": "Bangladesh",
+    "ThreeLetterSymbol": "bgd",
+    "Translation": "Bangladesh"
+  },
+  {
+    "Country": "Barbados",
+    "ThreeLetterSymbol": "brb",
+    "Translation": "Barbados"
+  },
+  {
+    "Country": "Belarus",
+    "ThreeLetterSymbol": "blr",
+    "Translation": "Bielorrússia"
+  },
+  {
+    "Country": "Belgium",
+    "ThreeLetterSymbol": "bel",
+    "Translation": "Bélgica"
+  },
+  {
+    "Country": "Belize",
+    "ThreeLetterSymbol": "blz",
+    "Translation": "Afeganistão"
+  },
+  {
+    "Country": "Benin",
+    "ThreeLetterSymbol": "ben",
+    "Translation": "Benim"
+  },
+  {
+    "Country": "Bermuda",
+    "ThreeLetterSymbol": "bmu",
+    "Translation": "Bermudas"
+  },
+  {
+    "Country": "Bhutan",
+    "ThreeLetterSymbol": "btn",
+    "Translation": "Butão"
+  },
+  {
+    "Country": "Bolivia",
+    "ThreeLetterSymbol": "bol",
+    "Translation": "Bolívia"
+  },
+  {
+    "Country": "Bosnia and Herzegovina",
+    "ThreeLetterSymbol": "bih",
+    "Translation": "Bósnia e Herzegovina"
+  },
+  {
+    "Country": "Botswana",
+    "ThreeLetterSymbol": "bwa",
+    "Translation": "Botsuana"
+  },
+  {
+    "Country": "Brazil",
+    "ThreeLetterSymbol": "bra",
+    "Translation": "Brasil"
+  },
+  {
+    "Country": "British Virgin Islands",
+    "ThreeLetterSymbol": "vgb",
+    "Translation": "Ilhas Virgens Britânicas"
+  },
+  {
+    "Country": "Brunei",
+    "ThreeLetterSymbol": "brn",
+    "Translation": "Brunei"
+  },
+  {
+    "Country": "Bulgaria",
+    "ThreeLetterSymbol": "bgr",
+    "Translation": "Bulgária"
+  },
+  {
+    "Country": "Burkina Faso",
+    "ThreeLetterSymbol": "bfa",
+    "Translation": "Burquina Faso"
+  },
+  {
+    "Country": "Burundi",
+    "ThreeLetterSymbol": "bdi",
+    "Translation": "Burundi"
+  },
+  {
+    "Country": "Cabo Verde",
+    "ThreeLetterSymbol": "cpv",
+    "Translation": "Cabo Verde"
+  },
+  {
+    "Country": "Cambodia",
+    "ThreeLetterSymbol": "khm",
+    "Translation": "Camboja"
+  },
+  {
+    "Country": "Cameroon",
+    "ThreeLetterSymbol": "cmr",
+    "Translation": "Camarões"
+  },
+  {
+    "Country": "Canada",
+    "ThreeLetterSymbol": "can",
+    "Translation": "Canadá"
+  },
+  {
+    "Country": "CAR",
+    "ThreeLetterSymbol": "caf",
+    "Translation": "República Centro-Africana"
+  },
+  {
+    "Country": "Caribbean Netherlands",
+    "ThreeLetterSymbol": "bes",
+    "Translation": "Países Baixos Caribenhos"
+  },
+  {
+    "Country": "Cayman Islands",
+    "ThreeLetterSymbol": "cym",
+    "Translation": "Ilhas Cayman"
+  },
+  {
+    "Country": "Chad",
+    "ThreeLetterSymbol": "tcd",
+    "Translation": "Chade"
+  },
+  {
+    "Country": "Channel Islands",
+    "ThreeLetterSymbol": "usa",
+    "Translation": "Ilhas do Canal"
+  },
+  {
+    "Country": "Chile",
+    "ThreeLetterSymbol": "chl",
+    "Translation": "Chile"
+  },
+  {
+    "Country": "China",
+    "ThreeLetterSymbol": "chn",
+    "Translation": "China"
+  },
+  {
+    "Country": "Colombia",
+    "ThreeLetterSymbol": "col",
+    "Translation": "Colômbia"
+  },
+  {
+    "Country": "Comoros",
+    "ThreeLetterSymbol": "com",
+    "Translation": "Comores"
+  },
+  {
+    "Country": "Congo",
+    "ThreeLetterSymbol": "cog",
+    "Translation": "Congo"
+  },
+  {
+    "Country": "Costa Rica",
+    "ThreeLetterSymbol": "cri",
+    "Translation": "Costa Rica"
+  },
+  {
+    "Country": "Croatia",
+    "ThreeLetterSymbol": "hrv",
+    "Translation": "Croácia"
+  },
+  {
+    "Country": "Cuba",
+    "ThreeLetterSymbol": "cub",
+    "Translation": "Cuba"
+  },
+  {
+    "Country": "Curaçao",
+    "ThreeLetterSymbol": "cuw",
+    "Translation": "Curaçao"
+  },
+  {
+    "Country": "Cyprus",
+    "ThreeLetterSymbol": "cyp",
+    "Translation": "Chipre"
+  },
+  {
+    "Country": "Czechia",
+    "ThreeLetterSymbol": "cze",
+    "Translation": " República Tchéquia"
+  },
+  {
+    "Country": "Denmark",
+    "ThreeLetterSymbol": "dnk",
+    "Translation": "Dinamarca"
+  },
+  {
+    "Country": "Diamond Princess",
+    "ThreeLetterSymbol": "usa",
+    "Translation": "Navio Diamond Princess"
+  },
+  {
+    "Country": "Djibouti",
+    "ThreeLetterSymbol": "dji",
+    "Translation": "Djibuti"
+  },
+  {
+    "Country": "Dominica",
+    "ThreeLetterSymbol": "dma",
+    "Translation": "Dominica"
+  },
+  {
+    "Country": "Dominican Republic",
+    "ThreeLetterSymbol": "dom",
+    "Translation": "República Dominicana"
+  },
+  {
+    "Country": "DRC",
+    "ThreeLetterSymbol": "cod",
+    "Translation": "República Democrática do Congo"
+  },
+  {
+    "Country": "Ecuador",
+    "ThreeLetterSymbol": "ecu",
+    "Translation": "Equador"
+  },
+  {
+    "Country": "Egypt",
+    "ThreeLetterSymbol": "egy",
+    "Translation": "Egito"
+  },
+  {
+    "Country": "El Salvador",
+    "ThreeLetterSymbol": "slv",
+    "Translation": "El Salvador"
+  },
+  {
+    "Country": "Equatorial Guinea",
+    "ThreeLetterSymbol": "gnq",
+    "Translation": "Guiné Equatorial"
+  },
+  {
+    "Country": "Eritrea",
+    "ThreeLetterSymbol": "eri",
+    "Translation": "Eritreia"
+  },
+  {
+    "Country": "Estonia",
+    "ThreeLetterSymbol": "est",
+    "Translation": "Estônia"
+  },
+  {
+    "Country": "Eswatini",
+    "ThreeLetterSymbol": "swz",
+    "Translation": "Suazilândia"
+  },
+  {
+    "Country": "Ethiopia",
+    "ThreeLetterSymbol": "eth",
+    "Translation": "Etiópia"
+  },
+  {
+    "Country": "Faeroe Islands",
+    "ThreeLetterSymbol": "fro",
+    "Translation": "Ilhas Faroé"
+  },
+  {
+    "Country": "Falkland Islands",
+    "ThreeLetterSymbol": "flk",
+    "Translation": "Ilha Falklands"
+  },
+  {
+    "Country": "Fiji",
+    "ThreeLetterSymbol": "fji",
+    "Translation": "Fiji"
+  },
+  {
+    "Country": "Finland",
+    "ThreeLetterSymbol": "fin",
+    "Translation": "Finlândia"
+  },
+  {
+    "Country": "France",
+    "ThreeLetterSymbol": "fra",
+    "Translation": "França"
+  },
+  {
+    "Country": "French Guiana",
+    "ThreeLetterSymbol": "guf",
+    "Translation": "Guiana Francesa"
+  },
+  {
+    "Country": "French Polynesia",
+    "ThreeLetterSymbol": "pyf",
+    "Translation": "Polinésia Francesa"
+  },
+  {
+    "Country": "Gabon",
+    "ThreeLetterSymbol": "gab",
+    "Translation": "Gabão"
+  },
+  {
+    "Country": "Gambia",
+    "ThreeLetterSymbol": "gmb",
+    "Translation": "Gâmbia"
+  },
+  {
+    "Country": "Georgia",
+    "ThreeLetterSymbol": "geo",
+    "Translation": "Geórgia"
+  },
+  {
+    "Country": "Germany",
+    "ThreeLetterSymbol": "deu",
+    "Translation": "Alemanha"
+  },
+  {
+    "Country": "Ghana",
+    "ThreeLetterSymbol": "gha",
+    "Translation": "Gana"
+  },
+  {
+    "Country": "Gibraltar",
+    "ThreeLetterSymbol": "gib",
+    "Translation": "Gibraltar"
+  },
+  {
+    "Country": "Greece",
+    "ThreeLetterSymbol": "grc",
+    "Translation": "Grécia"
+  },
+  {
+    "Country": "Greenland",
+    "ThreeLetterSymbol": "grl",
+    "Translation": "Groenlândia"
+  },
+  {
+    "Country": "Grenada",
+    "ThreeLetterSymbol": "grd",
+    "Translation": "Granada"
+  },
+  {
+    "Country": "Guadeloupe",
+    "ThreeLetterSymbol": "glp",
+    "Translation": "Guadalupe"
+  },
+  {
+    "Country": "Guatemala",
+    "ThreeLetterSymbol": "gtm",
+    "Translation": "Guatemala"
+  },
+  {
+    "Country": "Guinea",
+    "ThreeLetterSymbol": "gin",
+    "Translation": "Guiné"
+  },
+  {
+    "Country": "Guinea-Bissau",
+    "ThreeLetterSymbol": "gnb",
+    "Translation": "Guiné-Bissau"
+  },
+  {
+    "Country": "Guyana",
+    "ThreeLetterSymbol": "guy",
+    "Translation": "Guiana"
+  },
+  {
+    "Country": "Haiti",
+    "ThreeLetterSymbol": "hti",
+    "Translation": "Haiti"
+  },
+  {
+    "Country": "Honduras",
+    "ThreeLetterSymbol": "hnd",
+    "Translation": "Honduras"
+  },
+  {
+    "Country": "Hong Kong",
+    "ThreeLetterSymbol": "hkg",
+    "Translation": "Hong Kong"
+  },
+  {
+    "Country": "Hungary",
+    "ThreeLetterSymbol": "hun",
+    "Translation": "Hungria"
+  },
+  {
+    "Country": "Iceland",
+    "ThreeLetterSymbol": "isl",
+    "Translation": "Islândia"
+  },
+  {
+    "Country": "India",
+    "ThreeLetterSymbol": "ind",
+    "Translation": "Índia"
+  },
+  {
+    "Country": "Indonesia",
+    "ThreeLetterSymbol": "idn",
+    "Translation": "Indonésia"
+  },
+  {
+    "Country": "Iran",
+    "ThreeLetterSymbol": "irn",
+    "Translation": "Irã"
+  },
+  {
+    "Country": "Iraq",
+    "ThreeLetterSymbol": "irq",
+    "Translation": "Iraque"
+  },
+  {
+    "Country": "Ireland",
+    "ThreeLetterSymbol": "irl",
+    "Translation": "Irlanda"
+  },
+  {
+    "Country": "Isle of Man",
+    "ThreeLetterSymbol": "imn",
+    "Translation": "Ilha de Man"
+  },
+  {
+    "Country": "Israel",
+    "ThreeLetterSymbol": "isr",
+    "Translation": "Israel"
+  },
+  {
+    "Country": "Italy",
+    "ThreeLetterSymbol": "ita",
+    "Translation": "Itália"
+  },
+  {
+    "Country": "Ivory Coast",
+    "ThreeLetterSymbol": "civ",
+    "Translation": "Costa do Marfim"
+  },
+  {
+    "Country": "Jamaica",
+    "ThreeLetterSymbol": "jam",
+    "Translation": "Jamaica"
+  },
+  {
+    "Country": "Japan",
+    "ThreeLetterSymbol": "jpn",
+    "Translation": "Japão"
+  },
+  {
+    "Country": "Jordan",
+    "ThreeLetterSymbol": "jor",
+    "Translation": "Jordânia"
+  },
+  {
+    "Country": "Kazakhstan",
+    "ThreeLetterSymbol": "kaz",
+    "Translation": "Cazaquistão"
+  },
+  {
+    "Country": "Kenya",
+    "ThreeLetterSymbol": "ken",
+    "Translation": "Quênia"
+  },
+  {
+    "Country": "Kuwait",
+    "ThreeLetterSymbol": "kwt",
+    "Translation": "Kuwait"
+  },
+  {
+    "Country": "Kyrgyzstan",
+    "ThreeLetterSymbol": "kgz",
+    "Translation": "Quirguistão"
+  },
+  {
+    "Country": "Laos",
+    "ThreeLetterSymbol": "lao",
+    "Translation": "Laos"
+  },
+  {
+    "Country": "Latvia",
+    "ThreeLetterSymbol": "lva",
+    "Translation": "Letônia"
+  },
+  {
+    "Country": "Lebanon",
+    "ThreeLetterSymbol": "lbn",
+    "Translation": "Líbano"
+  },
+  {
+    "Country": "Lesotho",
+    "ThreeLetterSymbol": "lso",
+    "Translation": "Lesoto"
+  },
+  {
+    "Country": "Liberia",
+    "ThreeLetterSymbol": "lbr",
+    "Translation": "Libéria"
+  },
+  {
+    "Country": "Libya",
+    "ThreeLetterSymbol": "lby",
+    "Translation": "Líbia"
+  },
+  {
+    "Country": "Liechtenstein",
+    "ThreeLetterSymbol": "lie",
+    "Translation": "Liechtenstein"
+  },
+  {
+    "Country": "Lithuania",
+    "ThreeLetterSymbol": "ltu",
+    "Translation": "Lituânia"
+  },
+  {
+    "Country": "Luxembourg",
+    "ThreeLetterSymbol": "lux",
+    "Translation": "Luxemburgo"
+  },
+  {
+    "Country": "Macao",
+    "ThreeLetterSymbol": "mac",
+    "Translation": "Macau"
+  },
+  {
+    "Country": "Madagascar",
+    "ThreeLetterSymbol": "mdg",
+    "Translation": "Madagascar"
+  },
+  {
+    "Country": "Malawi",
+    "ThreeLetterSymbol": "mwi",
+    "Translation": "Malawi"
+  },
+  {
+    "Country": "Malaysia",
+    "ThreeLetterSymbol": "mys",
+    "Translation": "Malásia"
+  },
+  {
+    "Country": "Maldives",
+    "ThreeLetterSymbol": "mdv",
+    "Translation": "Maldivas"
+  },
+  {
+    "Country": "Mali",
+    "ThreeLetterSymbol": "mli",
+    "Translation": "Mali"
+  },
+  {
+    "Country": "Malta",
+    "ThreeLetterSymbol": "mlt",
+    "Translation": "Malta"
+  },
+  {
+    "Country": "Marshall Islands",
+    "ThreeLetterSymbol": "mhl",
+    "Translation": "Ilhas Marshall"
+  },
+  {
+    "Country": "Martinique",
+    "ThreeLetterSymbol": "mtq",
+    "Translation": "Martinica"
+  },
+  {
+    "Country": "Mauritania",
+    "ThreeLetterSymbol": "mrt",
+    "Translation": "Mauritânia"
+  },
+  {
+    "Country": "Mauritius",
+    "ThreeLetterSymbol": "mus",
+    "Translation": "Ilhas Maurício"
+  },
+  {
+    "Country": "Mayotte",
+    "ThreeLetterSymbol": "myt",
+    "Translation": "Ilha de Mayotte"
+  },
+  {
+    "Country": "Mexico",
+    "ThreeLetterSymbol": "mex",
+    "Translation": "México"
+  },
+  {
+    "Country": "Moldova",
+    "ThreeLetterSymbol": "mda",
+    "Translation": "Moldávia"
+  },
+  {
+    "Country": "Monaco",
+    "ThreeLetterSymbol": "mco",
+    "Translation": "Mônaco"
+  },
+  {
+    "Country": "Mongolia",
+    "ThreeLetterSymbol": "mng",
+    "Translation": "Mongólia"
+  },
+  {
+    "Country": "Montenegro",
+    "ThreeLetterSymbol": "mne",
+    "Translation": "Montenegro"
+  },
+  {
+    "Country": "Montserrat",
+    "ThreeLetterSymbol": "msr",
+    "Translation": "Monserrate"
+  },
+  {
+    "Country": "Morocco",
+    "ThreeLetterSymbol": "mar",
+    "Translation": "Marrocos"
+  },
+  {
+    "Country": "Mozambique",
+    "ThreeLetterSymbol": "moz",
+    "Translation": "Moçambique"
+  },
+  {
+    "Country": "MS Zaandam",
+    "ThreeLetterSymbol": "usa",
+    "Translation": "Navio MS Zaandam"
+  },
+  {
+    "Country": "Myanmar",
+    "ThreeLetterSymbol": "mmr",
+    "Translation": "Mianmar"
+  },
+  {
+    "Country": "Namibia",
+    "ThreeLetterSymbol": "nam",
+    "Translation": "Namíbia"
+  },
+  {
+    "Country": "Nepal",
+    "ThreeLetterSymbol": "npl",
+    "Translation": "Nepal"
+  },
+  {
+    "Country": "Netherlands",
+    "ThreeLetterSymbol": "nld",
+    "Translation": "Holanda"
+  },
+  {
+    "Country": "New Caledonia",
+    "ThreeLetterSymbol": "ncl",
+    "Translation": "Nova Caledônia"
+  },
+  {
+    "Country": "New Zealand",
+    "ThreeLetterSymbol": "nzl",
+    "Translation": "Nova Zelândia"
+  },
+  {
+    "Country": "Nicaragua",
+    "ThreeLetterSymbol": "nic",
+    "Translation": "Nicarágua"
+  },
+  {
+    "Country": "Niger",
+    "ThreeLetterSymbol": "ner",
+    "Translation": "Níger"
+  },
+  {
+    "Country": "Nigeria",
+    "ThreeLetterSymbol": "nga",
+    "Translation": "Nigéria"
+  },
+  {
+    "Country": "North Macedonia",
+    "ThreeLetterSymbol": "mkd",
+    "Translation": "Macedônia do Norte"
+  },
+  {
+    "Country": "Norway",
+    "ThreeLetterSymbol": "nor",
+    "Translation": "Noruega"
+  },
+  {
+    "Country": "Oman",
+    "ThreeLetterSymbol": "omn",
+    "Translation": "Omã"
+  },
+  {
+    "Country": "Pakistan",
+    "ThreeLetterSymbol": "pak",
+    "Translation": "Paquistão"
+  },
+  {
+    "Country": "Palestine",
+    "ThreeLetterSymbol": "pse",
+    "Translation": "Palestina"
+  },
+  {
+    "Country": "Panama",
+    "ThreeLetterSymbol": "pan",
+    "Translation": "Panamá"
+  },
+  {
+    "Country": "Papua New Guinea",
+    "ThreeLetterSymbol": "png",
+    "Translation": "Papua Nova Guiné"
+  },
+  {
+    "Country": "Paraguay",
+    "ThreeLetterSymbol": "pry",
+    "Translation": "Paraguai"
+  },
+  {
+    "Country": "Peru",
+    "ThreeLetterSymbol": "per",
+    "Translation": "Perus"
+  },
+  {
+    "Country": "Philippines",
+    "ThreeLetterSymbol": "phl",
+    "Translation": "Filipinas"
+  },
+  {
+    "Country": "Poland",
+    "ThreeLetterSymbol": "pol",
+    "Translation": "Polônia"
+  },
+  {
+    "Country": "Portugal",
+    "ThreeLetterSymbol": "prt",
+    "Translation": "Portugal"
+  },
+  {
+    "Country": "Qatar",
+    "ThreeLetterSymbol": "qat",
+    "Translation": "Catar"
+  },
+  {
+    "Country": "Réunion",
+    "ThreeLetterSymbol": "reu",
+    "Translation": "Ilha da Reunião"
+  },
+  {
+    "Country": "Romania",
+    "ThreeLetterSymbol": "rou",
+    "Translation": "Romênia"
+  },
+  {
+    "Country": "Russia",
+    "ThreeLetterSymbol": "rus",
+    "Translation": "Rússia"
+  },
+  {
+    "Country": "Rwanda",
+    "ThreeLetterSymbol": "rwa",
+    "Translation": "Ruanda"
+  },
+  {
+    "Country": "Saint Kitts and Nevis",
+    "ThreeLetterSymbol": "kna",
+    "Translation": "São Cristóvão e Neves"
+  },
+  {
+    "Country": "Saint Lucia",
+    "ThreeLetterSymbol": "lca",
+    "Translation": "Santa Lúcia"
+  },
+  {
+    "Country": "Saint Martin",
+    "ThreeLetterSymbol": "maf",
+    "Translation": "Ilha de São Martinho"
+  },
+  {
+    "Country": "Saint Pierre Miquelon",
+    "ThreeLetterSymbol": "spm",
+    "Translation": "São Pierre Miquelon"
+  },
+  {
+    "Country": "San Marino",
+    "ThreeLetterSymbol": "smr",
+    "Translation": "San Marino"
+  },
+  {
+    "Country": "Sao Tome and Principe",
+    "ThreeLetterSymbol": "stp",
+    "Translation": "São Tomé e Príncipe"
+  },
+  {
+    "Country": "Saudi Arabia",
+    "ThreeLetterSymbol": "sau",
+    "Translation": "Arábia Saudita"
+  },
+  {
+    "Country": "Senegal",
+    "ThreeLetterSymbol": "sen",
+    "Translation": "Senegal"
+  },
+  {
+    "Country": "Serbia",
+    "ThreeLetterSymbol": "srb",
+    "Translation": "Sérvia"
+  },
+  {
+    "Country": "Seychelles",
+    "ThreeLetterSymbol": "syc",
+    "Translation": "Seicheles"
+  },
+  {
+    "Country": "Sierra Leone",
+    "ThreeLetterSymbol": "sle",
+    "Translation": "Serra Leoa"
+  },
+  {
+    "Country": "Singapore",
+    "ThreeLetterSymbol": "sgp",
+    "Translation": "Singapura"
+  },
+  {
+    "Country": "Sint Maarten",
+    "ThreeLetterSymbol": "sxm",
+    "Translation": "São Martinho"
+  },
+  {
+    "Country": "S. Korea",
+    "ThreeLetterSymbol": "kor",
+    "Translation": "Coréia do Sul"
+  },
+  {
+    "Country": "Slovakia",
+    "ThreeLetterSymbol": "svk",
+    "Translation": "Eslováquia"
+  },
+  {
+    "Country": "Slovenia",
+    "ThreeLetterSymbol": "svn",
+    "Translation": "Eslovênia"
+  },
+  {
+    "Country": "Solomon Islands",
+    "ThreeLetterSymbol": "slb",
+    "Translation": "Ilhas Salomão"
+  },
+  {
+    "Country": "Somalia",
+    "ThreeLetterSymbol": "som",
+    "Translation": "Somália"
+  },
+  {
+    "Country": "South Africa",
+    "ThreeLetterSymbol": "zaf",
+    "Translation": "Africa do Sul"
+  },
+  {
+    "Country": "South Sudan",
+    "ThreeLetterSymbol": "ssd",
+    "Translation": "Sudão do Sul"
+  },
+  {
+    "Country": "Spain",
+    "ThreeLetterSymbol": "esp",
+    "Translation": "Espanha"
+  },
+  {
+    "Country": "Sri Lanka",
+    "ThreeLetterSymbol": "lka",
+    "Translation": "Sri Lanca"
+  },
+  {
+    "Country": "St. Barth",
+    "ThreeLetterSymbol": "blm",
+    "Translation": "São Bartolomeu"
+  },
+  {
+    "Country": "St. Vincent Grenadines",
+    "ThreeLetterSymbol": "vct",
+    "Translation": "São Vicente e Granadinas"
+  },
+  {
+    "Country": "Sudan",
+    "ThreeLetterSymbol": "sdn",
+    "Translation": "Sudão"
+  },
+  {
+    "Country": "Suriname",
+    "ThreeLetterSymbol": "sur",
+    "Translation": "Suriname"
+  },
+  {
+    "Country": "Sweden",
+    "ThreeLetterSymbol": "swe",
+    "Translation": "Suécia"
+  },
+  {
+    "Country": "Switzerland",
+    "ThreeLetterSymbol": "che",
+    "Translation": "Suíça"
+  },
+  {
+    "Country": "Syria",
+    "ThreeLetterSymbol": "syr",
+    "Translation": "Síria"
+  },
+  {
+    "Country": "Taiwan",
+    "ThreeLetterSymbol": "twn",
+    "Translation": "Taiuã"
+  },
+  {
+    "Country": "Tajikistan",
+    "ThreeLetterSymbol": "tjk",
+    "Translation": "Tajiquistão"
+  },
+  {
+    "Country": "Tanzania",
+    "ThreeLetterSymbol": "tza",
+    "Translation": "Tanzânia"
+  },
+  {
+    "Country": "Thailand",
+    "ThreeLetterSymbol": "tha",
+    "Translation": "Tailândia"
+  },
+  {
+    "Country": "Timor-Leste",
+    "ThreeLetterSymbol": "tls",
+    "Translation": "Timor-Leste"
+  },
+  {
+    "Country": "Togo",
+    "ThreeLetterSymbol": "tgo",
+    "Translation": "Togo"
+  },
+  {
+    "Country": "Trinidad and Tobago",
+    "ThreeLetterSymbol": "tto",
+    "Translation": "Trindade e Tobago"
+  },
+  {
+    "Country": "Tunisia",
+    "ThreeLetterSymbol": "tun",
+    "Translation": "Tunísia"
+  },
+  {
+    "Country": "Turkey",
+    "ThreeLetterSymbol": "tur",
+    "Translation": "Turquia"
+  },
+  {
+    "Country": "Turks and Caicos",
+    "ThreeLetterSymbol": "tca",
+    "Translation": "Ilhas Turcas e Caicos"
+  },
+  {
+    "Country": "UAE",
+    "ThreeLetterSymbol": "are",
+    "Translation": "Emirados Árabes Unidos"
+  },
+  {
+    "Country": "Uganda",
+    "ThreeLetterSymbol": "uga",
+    "Translation": "Uganda"
+  },
+  {
+    "Country": "UK",
+    "ThreeLetterSymbol": "gbr",
+    "Translation": "Reino Unido"
+  },
+  {
+    "Country": "Ukraine",
+    "ThreeLetterSymbol": "ukr",
+    "Translation": "Ucrânia"
+  },
+  {
+    "Country": "Uruguay",
+    "ThreeLetterSymbol": "ury",
+    "Translation": "Uruguai"
+  },
+  {
+    "Country": "USA",
+    "ThreeLetterSymbol": "usa",
+    "Translation": "EUA"
+  },
+  {
+    "Country": "Uzbekistan",
+    "ThreeLetterSymbol": "uzb",
+    "Translation": "Usbequistão"
+  },
+  {
+    "Country": "Vanuatu",
+    "ThreeLetterSymbol": "vut",
+    "Translation": "Vanuatu"
+  },
+  {
+    "Country": "Vatican City",
+    "ThreeLetterSymbol": "vat",
+    "Translation": "Vaticano"
+  },
+  {
+    "Country": "Venezuela",
+    "ThreeLetterSymbol": "ven",
+    "Translation": "Venezuela"
+  },
+  {
+    "Country": "Vietnam",
+    "ThreeLetterSymbol": "vnm",
+    "Translation": "Vietnã"
+  },
+  {
+    "Country": "Wallis and Futuna",
+    "ThreeLetterSymbol": "wlf",
+    "Translation": "Wallis e Futuna"
+  },
+  {
+    "Country": "Western Sahara",
+    "ThreeLetterSymbol": "esh",
+    "Translation": "Saara Ocidental"
+  },
+  {
+    "Country": "Yemen",
+    "ThreeLetterSymbol": "yem",
+    "Translation": "Iémen"
+  },
+  {
+    "Country": "Zambia",
+    "ThreeLetterSymbol": "zmb",
+    "Translation": "Zâmbia"
+  },
+  {
+    "Country": "Zimbabwe",
+    "ThreeLetterSymbol": "zwe",
+    "Translation": "Zimbábue"
+  }
+]
