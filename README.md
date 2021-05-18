@@ -1,4 +1,4 @@
-<h1 align="center">Trabalho app movel em grupo/h1>
+<h1 align="center">Trabalho app movel em grupo </h1>
 
 ## CoronaInfo
 
